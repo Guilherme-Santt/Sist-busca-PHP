@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header-body{
+    height: 50px;
+    background-color: rgba(76, 1, 162, 1);
+}
+.header-body h1{
+    font-size: 22px;
+    color: rgba(255, 255, 255, 0.76);
+}
+.header-body p{
+    color: rgba(255, 255, 255, 0.527);
+}
+.form-body{
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.form-body th{
+    font-size: 20px;
+    text-align: left;
+}
+.form-body td{
+    font-size: 18px;
+}
+.form-body input{
+    width: 50%;
+    height: 25px;
+    font-size: 17px;
+
+}
+/* BUTTON */
+.btn-submit{
+    background-color: rgba(76, 1, 162, 1);;
+    color: white;
+    border: 1px solid transparent;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 0.2s;
+}
+.btn-submit:hover{
+    background-color: #FFF;
+    border-color: rgba(76, 1, 162, 1);;
+    color: rgba(76, 1, 162, 1);
+}
