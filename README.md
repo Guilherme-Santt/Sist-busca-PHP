@@ -7,7 +7,7 @@ Para execução do projeto, seguir seguintes passos:
 C:\xampp\htdocs
 ![image](https://github.com/Guilherme-Santt/SIST_BUSCA_PHP/assets/133061692/8501808f-d212-48a5-a5f9-21cb83a5cbca)
 
-2.Criar banco de dados "carro" no PHP My Admin & importar arquivo(carro.sql) anexado na pasta raiz do projeto.
+2.Criar banco de dados "carro" no PHP My Admin & importar arquivo(veiculo.sql) anexado na pasta raiz do projeto.
 ![image](https://github.com/Guilherme-Santt/SIST_BUSCA_PHP/assets/133061692/452d24fc-fae6-4dcd-8bad-b77332fd86ed)
 
 Caso não souber aonde importar, segue anexo
